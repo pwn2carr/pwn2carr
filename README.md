@@ -1,19 +1,15 @@
-## Pwn2car - Building the Future, Growing Together
-Pwn2car Is Bug Hunting Team We Building the Future, and Growing Together!
+## Pwn2car
 
 
 ## Member
-- Anonymouse : Developer
-- Anonymouse : Find Vulnerbility & Exploit
 - un3xploitable : Find Vulnerbility & Fuzzing Developeer
-- Spark : Find Vulnerbility & Exploit & Fuzzing Developer
 
 ## Credit
 ### Google Chrome
 - ISSUE : 40070726, ISSUE : 40070701, ISSUE : 334110479, ISSUE : 40074630, ISSUE : 40074964, CVE-2023-5852, CVE-2023-5474, CVE-2023-6510, CVE-2023-5186
 
 ### Firefox
-- CVE-2024-6600, CVE-2023-5724
+- CVE-2023-5724
 
 ### Safari, Apple
 - ZDI-CAN-21396, CVE-2023-42890, CVE-2023-41978, CVE-2024-23226, ZDI-CAN-23325, ZDI-CAN-23588, ZDI-CAN-23591, ZDI-CAN-23949
